@@ -1,0 +1,1 @@
+A final project for Software Engineering 2 class in which we made a flutter app that would let the user choose how to brew their coffee with instructions and a few more extra tools for convenience. Created by Petra Bazan, Robert Gomez, and Pedro Tinajero in Fall 2020.
